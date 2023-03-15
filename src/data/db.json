@@ -1,0 +1,19 @@
+{
+  "allTasks": [
+    {
+      "id": 1,
+      "title": "Estudiar JavaScript",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Hacer ejercicio",
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "title": "Salir a trotar",
+      "status": "complete"
+    }
+  ]
+}
