@@ -1,19 +1,59 @@
 {
   "allTasks": [
     {
-      "id": 1,
-      "title": "Estudiar JavaScript",
-      "status": "pending"
+      "title": "Listening to music",
+      "status": "complete",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Hacer ejercicio",
-      "status": "complete"
+      "title": "Watch the serie",
+      "status": "pending",
+      "id": 2
     },
     {
-      "id": 3,
-      "title": "Salir a trotar",
-      "status": "complete"
+      "title": "Learn to sew",
+      "status": "complete",
+      "id": 3
+    },
+    {
+      "title": "Wash the dishes",
+      "status": "complete",
+      "id": 4
+    },
+    {
+      "title": "Clean the house",
+      "status": "pending",
+      "id": 5
+    },
+    {
+      "title": "Eat ice cream",
+      "status": "pending",
+      "id": 6
+    },
+    {
+      "title": "Draw",
+      "status": "complete",
+      "id": 7
+    },
+    {
+      "title": "Study coding",
+      "status": "complete",
+      "id": 8
+    },
+    {
+      "title": "Watch a movie",
+      "status": "pending",
+      "id": 9
+    },
+    {
+      "title": "Read a book",
+      "status": "complete",
+      "id": 10
+    },
+    {
+      "title": "Do exercise",
+      "status": "pending",
+      "id": 11
     }
   ]
 }
